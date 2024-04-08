@@ -1,0 +1,1 @@
+# AWSCCTIPM-Photobooth-AWS
